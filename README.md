@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Diksharma21
-- 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m **Diksha**
+- 👀 I’m interested in **coding and reading**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 💞️ I’m looking to collaborate on **open-source projects**
 
 <!---
 Diksharma21/Diksharma21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
